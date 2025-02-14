@@ -4,7 +4,6 @@ import Identify from "./page/Identify";
 
 function App() {
 
-  const neviget = useNavigate();
 
   return (
     <div className="w-full h-screen relative bg-gradient-to-r from-purple-500 to-pink-500 flex justify-center items-center">

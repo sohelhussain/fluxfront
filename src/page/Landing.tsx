@@ -1,4 +1,3 @@
-import React from 'react'
 import { Routes, useNavigate } from 'react-router-dom'
 
 function Landing() {
